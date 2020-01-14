@@ -1,4 +1,8 @@
 #EXTM3U #####FILMLER#####
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-TARGETDURATION:10
+#EXT-X-VERSION:4
+#EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:-1 tvg-logo="https://www.diziyo8.net/wp-content/uploads/2019/10/udDclJoHjfjb8Ekgsd4FDteOkCU-185x278.jpg" group-title="DRAM",JOKER
 https://romanya.club/cdn/down/097fc30be81fdaff3bcdfe08bd9c6280/720p/720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.diziyo8.net/wp-content/uploads/2019/10/4cs8ah31x96AgxKTCeY2UbhCEGr-185x278.jpg" group-title="AKSIYON",HOBBIT 1
