@@ -27,5 +27,5 @@ https://odemis.club/cdn/down/c4d2ed841c669da6585d012523655857/720p/720p.m3u8
 https://odemis.club/cdn/down/833d5920273ad3298f08e027906175a3/720p/720p.m3u8
 #EXTINF:-1 $ExtFilter="VOD" tvg-id="id2" tvg-name="Mr.Robot" tvg-logo="https://www.diziyo8.net/wp-content/uploads/2017/09/aubGV7NnVPjmX0XuXpHRlA1i5qF-185x278.jpg" group-title="Mr.Robot 1.Sezon" ,Mr.Robot 7
 https://odemis.club/cdn/down/09311fc2742ccb17d2384be1edf777be/720p/720p.m3u8
-#EXTINF:-1  tvg-logo="https://www.diziyo8.net/wp-content/uploads/2017/09/aubGV7NnVPjmX0XuXpHRlA1i5qF-185x278.jpg" group-title="Dram" ,Marriage Story
+#EXTINF:-1 $ExtFilter="VOD"  tvg-logo="https://www.diziyo8.net/wp-content/uploads/2017/09/aubGV7NnVPjmX0XuXpHRlA1i5qF-185x278.jpg" group-title="Dram" ,Marriage Story
 https://norvec.club/cdn/down/5548e4788b0a62367d35fdfae887ac0a/720p/720p.m3u8
