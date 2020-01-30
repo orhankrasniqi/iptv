@@ -1,19 +1,21 @@
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guideturkey.xml.gz"
-#EXTINF:-1 tvg-id="TRT 1 TR" tvg-name="A Haber TR" tvg-language="Turkish" tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjVvqyWm6znAhUEIMUKHcyRDcIQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.trt.net.tr%2FKurumsal%2FLogolarimiz.aspx&psig=AOvVaw3jjeDGYyQB6535cimxArJl&ust=1580504219069078" group-title="News",TRT 1 HD
+#EXTINF:-1 tvg-id="TRT 1 TR" tvg-name="A Haber TR" tvg-language="Turkish" tvg-logo="https://1.bp.blogspot.com/-7XQhNigrIAg/XizKmGrkH0I/AAAAAAAALWY/KJLQW_AdS601Vx8x-iZyGRuxnBOZl8EBACLcBGAsYHQ/s1600/trt1hd-logo.png" group-title="News",TRT 1 HD
 https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="Kanal D TR" tvg-name="Kanal D TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/BKRJpM9/kA45FvQ.jpg" group-title="",Kanal D HD
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/fDCFJhF/2jKvBsQ.jpg" group-title="",Star TV HD
-https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="FOX TR" tvg-name="FOX TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/NVdh9jY/fox.jpg" group-title="",FOX HD
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="Atv" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pwtfgLY/5dc2be15866ac331e0feb209.png" group-title="News",Atv HD
-https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="Show TR" tvg-name="Show TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/kcJYRGj/Fvxpir2.png" group-title="",Show TV HD
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="Tv8" tvg-name="Tv8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/6ZZLDQp/tv8.png" group-title="",TV8 HD
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Tv8" tvg-name="Tv8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/6ZZLDQp/tv8.png" group-title="",KANAL 7 HD
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="Tv8" tvg-name="Tv8" tvg-language="Turkish" tvg-logo="https://2.bp.blogspot.com/-5enDeCUyuGw/TtWtWHnF9MI/AAAAAAAAAyg/wNGH2HtUn4g/s320/Kanal7-logo.jpg" group-title="",KANAL 7 HD
 https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/j5c4WdG/aJDmVr3.png" group-title="",Teve 2
 https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://1.bp.blogspot.com/-atuK1vLcOds/XiD9mH3kfCI/AAAAAAAAK-g/0QO-6dGBS18lhrcREL5gsijXD9ZW2ZnrgCLcBGAsYHQ/s1600/TV8.5-logosu.png" group-title="",TV 8.5 HD
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist_b3128000.m3u8
