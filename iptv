@@ -1,35 +1,19 @@
-#EXTM3U #####FILMLER#####
-#EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-TARGETDURATION:10
-#EXT-X-VERSION:4
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-logo="https://www.diziyo8.net/wp-content/uploads/2019/10/udDclJoHjfjb8Ekgsd4FDteOkCU-185x278.jpg" group-title="DRAM",JOKER
-https://fr-055.fileru.net/s/957640fedd590ba8c5adb247ef373c6785792b35d7d80cd4462d342d6fb17c7c20a76399641fbdb472151ef3d11cf3254f7d45e61241508f947072c4706204ffa8a9e6cbecfcc1df6672248bc7cb3e208205835fb7dc5d09641b37f4d1d35d6902694aee1cbf270566a80860fba5e29691248e65c90c1230a0660135685d09985fb163e59e7f0f2bb32d0ae30ead7682fcef560c6b237c61322332700c66f0dacfa82ee6d4fccf27209862821bb6e0022b13c012ae7dd0377986aef109a03c958b04cdf0a9de0e7a9f904714604f98cc4d380aee9d8b357f71cc4a00830a35307a509c1776d1756fc0540eda9d6d75cd009975a06a4140f14055bff5eb7ee0a965dc7f67f59baeeab2e4ed2d8321152029e670b4e91f521da50cede11c23d36c3cd5191deae85daa4b37ca9112c1bb038670c673fdb9c01bc7406bf555f08656dc02be3bc9dd4fb41a8dddd4113e50f4f88fbbe61d77448a39dc76476eec54d8b4a7c204687b0d11d425610238435bf85de2ca49b8f68f8ed543e822a8268fa95770667fb84dd42151bf0744f47cce0eeadeb7ed46a633084ced61d1ad259ff782f45dc770b1a330a2ef67c886bb1643eb093fdfb4d52738d5e2dac0c7df1a3632bdd0daa288da119a797100b21d19171ccb340b01d7f3c5abefed8ebdef3b9c27b9ac3d2694f86db9bfa270df7b65b3012b521599af459243d02b1192bf2f19bfa70290bd576272a7447743407c2c8ed884071e0dd2776b4d805a3ab5533a2d1785309ec71f72c02c3196a51395ae9b20957eb061212dbf86f901c87fe620fcbf7c1719fefeee7c52540053c91bb1a10a047bfc5debf976c047f6414211a024d684fd1ed624245c81c8396ea271cb6c61a1e37d7708f3bdc1082480a091d215e7388b771418acfe780917985150eb99e1f8729a7c8ea0dc261e996bc330772070de11ef143738d1afc3486c1741f3342ec8dcdf1351be98de947246095f7aea21cf4ac0d54539c29d5170a5424670aeca0df12ee5b0ca90146c7157af9e73b5fec2502ee090fd869a29eb150eec68e7ceaaded87bb6d70447e639ea7fadfcb8
-#EXTINF:-1 tvg-logo="https://www.diziyo8.net/wp-content/uploads/2019/10/4cs8ah31x96AgxKTCeY2UbhCEGr-185x278.jpg" group-title="AKSIYON",HOBBIT 1
-https://rickilemorty.club/cdn/down/1623862684f6a9e54ac156627e7a3d3c/720p/720p.m3u8
-#EXTINF:-1 tvg-logo="https://www.diziyo8.net/wp-content/uploads/2019/10/4cs8ah31x96AgxKTCeY2UbhCEGr-185x278.jpg" group-title="AKSIYON",IKIZLER PROJESI
-https://narlidere.club/cdn/down/ad3f49fe9a64dfae6052beb2188a1c3e/720p/720p.m3u8
-#EXTINF:-1 tvg-logo="https://www.bolfilmizle.com/thumb_/180x260-1/wp-content/uploads/2019/04/Bir-Zamanlar-Hollywoodda-Full-izle-665x1024.jpg" group-title="AKSIYON",BIR ZAMANLAR HOLLYWOOD'da
-https://load.hulawava.site/hls/trd/tt7131622.TRD.mp4/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.diziyo8.net/wp-content/uploads/2019/12/ggax1nyhiGIwbq1Ynk0otH2sD6-185x278.jpg" group-title="AKSIYON,Dram,Gerilim",Kara Şövalye (2008)
-https://kebaplar.club/cdn/down/e83b9a6a9a3fe9b6c6002e0a6dcad22f/720p/720p.m3u8
-#EXTINF:-1 tvg-logo="https://www.diziyo8.net/wp-content/uploads/2019/11/pyqK3m0RciigZwD1CZCcYFT4vSA-185x278.jpg" group-title="Komedi" group-title="DRAM",Bir Zamanlar… Hollywood’da (2019)
-https://rickilemorty.club/cdn/down/c651d4f11a0ed441d5a55abfbdef4f0d/720p/720p.m3u8
-#EXTINF:-1 tvg-logo="https://www.diziyo8.net/wp-content/uploads/2019/10/4cs8ah31x96AgxKTCeY2UbhCEGr-185x278.jpg" group-title="AKSIYON",HOBBIT 2
-https://barneystinson.club/cdn/down/ea59ccdc11dd2f81fa69ef1b315efc77/720p/720p.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.diziyo8.net/wp-content/uploads/2017/09/aubGV7NnVPjmX0XuXpHRlA1i5qF-185x278.jpg" group-title="Mr.Robot 1.Sezon",Mr.Robot 1
-https://odemis.club/cdn/down/31203867f890dbb557c905ed51e9233d/720p/720p.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.diziyo8.net/wp-content/uploads/2017/09/aubGV7NnVPjmX0XuXpHRlA1i5qF-185x278.jpg" group-title="Mr.Robot 1.Sezon",Mr.Robot 2
-https://odemis.club/cdn/down/7394a89fc3d278113fa6962c0d037442/720p/720p.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.diziyo8.net/wp-content/uploads/2017/09/aubGV7NnVPjmX0XuXpHRlA1i5qF-185x278.jpg" group-title="Mr.Robot 1.Sezon",Mr.Robot 3
-https://odemis.club/cdn/down/888f44f90e0ab8ccd3d1203be29acf37/720p/720p.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.diziyo8.net/wp-content/uploads/2017/09/aubGV7NnVPjmX0XuXpHRlA1i5qF-185x278.jpg" group-title="Mr.Robot 1.Sezon",Mr.Robot 4
-https://odemis.club/cdn/down/c9cf6ba808cda57ac92d6860bb284ffe/720p/720p.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.diziyo8.net/wp-content/uploads/2017/09/aubGV7NnVPjmX0XuXpHRlA1i5qF-185x278.jpg" group-title="Mr.Robot 1.Sezon",Mr.Robot 5
-https://odemis.club/cdn/down/c4d2ed841c669da6585d012523655857/720p/720p.m3u8
-#EXTINF:-1 tvg-id="id2" tvg-name="Mr.Robot"tvg-logo="https://www.diziyo8.net/wp-content/uploads/2017/09/aubGV7NnVPjmX0XuXpHRlA1i5qF-185x278.jpg" group-title="Mr.Robot 1.Sezon",Mr.Robot 6
-https://odemis.club/cdn/down/833d5920273ad3298f08e027906175a3/720p/720p.m3u8
-#EXTINF:-1 $ExtFilter="VOD" tvg-id="id2" tvg-name="Mr.Robot" tvg-logo="https://www.diziyo8.net/wp-content/uploads/2017/09/aubGV7NnVPjmX0XuXpHRlA1i5qF-185x278.jpg" group-title="Mr.Robot 1.Sezon" ,Mr.Robot 7
-https://odemis.club/cdn/down/09311fc2742ccb17d2384be1edf777be/720p/720p.m3u8
-#EXTINF:-1 $ExtFilter="VOD"  tvg-logo="https://www.diziyo8.net/wp-content/uploads/2017/09/aubGV7NnVPjmX0XuXpHRlA1i5qF-185x278.jpg" group-title="Dram" ,Marriage Story
-https://norvec.club/cdn/down/5548e4788b0a62367d35fdfae887ac0a/720p/720p.m3u8
+#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideturkey.xml.gz"
+#EXTINF:-1 tvg-id="TRT 1 TR" tvg-name="A Haber TR" tvg-language="Turkish" tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjVvqyWm6znAhUEIMUKHcyRDcIQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.trt.net.tr%2FKurumsal%2FLogolarimiz.aspx&psig=AOvVaw3jjeDGYyQB6535cimxArJl&ust=1580504219069078" group-title="News",TRT 1 HD
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="Kanal D TR" tvg-name="Kanal D TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/BKRJpM9/kA45FvQ.jpg" group-title="",Kanal D HD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/fDCFJhF/2jKvBsQ.jpg" group-title="",Star TV HD
+https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX TR" tvg-name="FOX TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/NVdh9jY/fox.jpg" group-title="",FOX HD
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Atv" tvg-name="Atv" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pwtfgLY/5dc2be15866ac331e0feb209.png" group-title="News",Atv HD
+https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Show TR" tvg-name="Show TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/kcJYRGj/Fvxpir2.png" group-title="",Show TV HD
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="Tv8" tvg-name="Tv8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/6ZZLDQp/tv8.png" group-title="",TV8 HD
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Tv8" tvg-name="Tv8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/6ZZLDQp/tv8.png" group-title="",KANAL 7 HD
+https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/j5c4WdG/aJDmVr3.png" group-title="",Teve 2
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/chunklist_b3128000.m3u8
