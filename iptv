@@ -19,3 +19,15 @@ https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b3128000.m3u8
 https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://1.bp.blogspot.com/-atuK1vLcOds/XiD9mH3kfCI/AAAAAAAAK-g/0QO-6dGBS18lhrcREL5gsijXD9ZW2ZnrgCLcBGAsYHQ/s1600/TV8.5-logosu.png" group-title="",TV 8.5 HD
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://2.bp.blogspot.com/-CPRjOaMevrI/TtZhib9nJ3I/AAAAAAAAAzg/CR6b7SxyuOg/s320/beyaz-tv-logo.jpg" group-title="",BEYAZ TV HD
+https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="A Haber TR" tvg-name="A Haber TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/qjzfKDN/ahaber.jpg" group-title="News",A Haber
+https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZNxrDJ5/image.png" group-title="",A Para
+https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2Fjh189/aspor.png" group-title="Sport",A Spor
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gFWSgVC/YIv7xEi.png" group-title="",A2TV
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bHP8whJ/MwuqE6S.jpg" group-title="",DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
