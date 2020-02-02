@@ -31,3 +31,5 @@ https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b3128000.m3u8
 https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bHP8whJ/MwuqE6S.jpg" group-title="",DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bHP8whJ/MwuqE6S.jpg" group-title="",DMAX
+http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/240.ts
